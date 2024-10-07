@@ -431,6 +431,7 @@ plt.tight_layout()
 plt.show()
 
 ```
+![Screenshot_8-10-2024_03524_localhost](https://github.com/user-attachments/assets/44315368-c34d-4207-9473-bd970441aad2)
 
 ---
 
