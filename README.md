@@ -82,7 +82,7 @@ print(f"Mean pixel value: {mean_val}")
 print(f"Minimum pixel value: {min_val}")
 print(f"Maximum pixel value:{max_val}")
 ```
-
+https://github.com/Abdulrahmanzafrullabaig/Basic-image-processing/issues/1#issue-2571247012
 ---
 
 ### 2. [Adding Filters to an Image](#)
