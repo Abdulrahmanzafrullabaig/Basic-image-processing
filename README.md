@@ -245,6 +245,7 @@ axes[1, 2].axis('off')
 plt.show()
 
 ```
+![Screenshot_8-10-2024_03339_localhost](https://github.com/user-attachments/assets/27ef5bad-a729-4a5e-9417-8b39f894b066)
 
 ---
 
