@@ -123,6 +123,8 @@ axes[2].axis('off')
 plt.show()
 
 ```
+![Screenshot_8-10-2024_0326_localhost](https://github.com/user-attachments/assets/ed7f9571-1252-469f-8bac-8fda3f4d80e0)
+![Screenshot_8-10-2024_03227_localhost](https://github.com/user-attachments/assets/c4c93e82-e326-4f75-8648-08052c5b30bf)
 
 ---
 
