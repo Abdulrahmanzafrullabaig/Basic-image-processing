@@ -490,6 +490,7 @@ plt.tight_layout()
 plt.show()
 
 ```
+![Screenshot_8-10-2024_03550_localhost](https://github.com/user-attachments/assets/e1106fd1-c29b-44d9-87b9-757f8dbac6ec)
 
 ---
 
