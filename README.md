@@ -158,9 +158,40 @@ axes[1].set_title('Grayscale Image')
 axes[1].axis('off')
 
 plt.show()
+---
+'''python
+from PIL import Image
+import matplotlib.pyplot as plt
 
+# Load the image
+image = Image.open('/Users/My Computer/Downloads/Basic image porcessing/1.jpg')
+
+# Resize the image to specific dimensions
+resized_image = image.resize((800, 600))  # Resize to 800x600 pixels
+
+# Scale the image by a factor (e.g., 50%)
+scale_factor = 0.5
+scaled_image = image.resize((int(image.width * scale_factor), int(image.height * scale_factor)))
+
+# Display the original, resized, and scaled images
+fig, axes = plt.subplots(1, 3, figsize=(15, 5))
+axes[0].imshow(image)
+axes[0].set_title('Original Image')
+axes[0].axis('off')
+
+axes[1].imshow(resized_image)
+axes[1].set_title('Resized Image (800x600)')
+axes[1].axis('off')
+
+axes[2].imshow(scaled_image)
+axes[2].set_title('Scaled Image (50%)')
+axes[2].axis('off')
+
+plt.show()
 
 ```
+![Screenshot_8-10-2024_03116_localhost](https://github.com/user-attachments/assets/2008d1dd-5837-463c-beba-56f4e50ca264)
+![Screenshot_8-10-2024_0522_localhost](https://github.com/user-attachments/assets/0950f099-152e-4608-a1b7-456c199ee979)
 
 ---
 
