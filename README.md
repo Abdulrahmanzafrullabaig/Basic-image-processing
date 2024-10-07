@@ -159,7 +159,13 @@ axes[1].axis('off')
 
 plt.show()
 ---
-'''python
+
+```
+![Screenshot_8-10-2024_0522_localhost](https://github.com/user-attachments/assets/0950f099-152e-4608-a1b7-456c199ee979)
+
+### 3.1. [Resize and scale the image](#)
+
+```python
 from PIL import Image
 import matplotlib.pyplot as plt
 
@@ -191,7 +197,6 @@ plt.show()
 
 ```
 ![Screenshot_8-10-2024_03116_localhost](https://github.com/user-attachments/assets/2008d1dd-5837-463c-beba-56f4e50ca264)
-![Screenshot_8-10-2024_0522_localhost](https://github.com/user-attachments/assets/0950f099-152e-4608-a1b7-456c199ee979)
 
 ---
 
@@ -297,6 +302,7 @@ plt.tight_layout()
 plt.show()
 
 ```
+![Screenshot_8-10-2024_03414_localhost](https://github.com/user-attachments/assets/4b4a41eb-59e7-42c2-b6fb-160113ed8b78)
 
 ---
 
